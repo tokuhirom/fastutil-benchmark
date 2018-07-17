@@ -6,6 +6,8 @@ Benchmarking fastutil's size.
 
 ## Result
 
+<img src="https://raw.githubusercontent.com/tokuhirom/fastutil-benchmark/master/HashMap%20and%20Int2ObjectArrayMap.png">
+
     Size	HashMap	Int2ObjectArrayMap
     1	216	120
     10	648	232
